@@ -1,2 +1,9 @@
-# No-more-science-grinding
-Just a small ModuleManager file to set the baseValue of an experiment to fit the scienceCap of it. So basically you don't have to do 3 or 4 mysterygoo observations on the launchpad to max out your science.
+Science - Full reward!
+
+Version 1.0
+
+Sets BaseValue to match ScienceCap of experiments
+Adds description to stock experiments
+
+contact me at the froums:
+http://forum.kerbalspaceprogram.com/index.php?/profile/122127-maculator/
